@@ -1,6 +1,6 @@
 # CV
 
-Teaching experience:
+### Teaching experience:
 
 (1) Critically appraising a paper and medical statistics
 23/10/2020
@@ -62,7 +62,7 @@ Done alongside Imposter syndrome presentation. Motivated by discussion with new 
 7/7/22
 Done alongside Imposter syndrome presentation and equally motivated by presentation by Dr Jenny Gomersall.
 
-Audit and QI:
+### Audit and QI:
 
 (1) 	Exercise tolerance training ICE referral system QIP at East Lancashire Foundation Trust 
 Completed cycle 22/11/21
@@ -85,7 +85,7 @@ Completed 4/2/19
 Audit to assess patients to assess appropriate NOAC prescriptions given reduced renal function.
 
 
-Change management:
+### Change management:
 
 (1)	Description of change: North West Desflurane and Nitrous Reducing Project (CLEAR NW - Consensus for Lowering Emissions in the Anaesthetic Room)
 
@@ -129,7 +129,7 @@ Date: March 2022
 
 Aim of research: I lead the full study to assess lead and patient survival in ACHD patients
 
-Presented:
+### Presentions:
 
 1)	Moderated poster presentation at European Cardiology Society Congress Barcelona September 2022
 2)	Oral presentation at North West AFP conference at Salford Hospital June 2022
@@ -160,7 +160,7 @@ Methods: 1D signal data handling and processing, python coding and building mach
 Conclusion: PTB-XL ECG database can be classified at a standard close to benchmark methods however there is no guarantee of implicit bias built into the architecture that discriminates if applied outside the dataset. The architecture often over fitted to bias features such as nurse doing ECG, patient age, sex, and other demographics. 
 
 
-Second author research:
+### Second author research:
 
 (1) 	Should the normal range of pulmonary vascular resistance be re-defined in patients with fontan circulation?
 Kendall, G., Schneider, H., Kirkwood, G., Mahadevan, V., Kelly, R., Patel, M., Stokes, A., Hama, B., Gill, A., Yearoo, T. and Carmichael, J.
@@ -173,7 +173,7 @@ JACC: Cardiovascular Interventions, 11(4S), pp.S40-S41.
 
 Co-author. Did data collection, aided data analysis/interpretation and review.
 
-Prizes:
+### Prizes:
 
 (1)	MRes: Distinction in Final Dissertation - Regenerative effects of microRNA-520 on mouse cardiomyocytes in vitro and vivo - 2019
 (2)	MRes: Distinction in Literature Review - Hippo mediated cardiac regeneration via miR-520 – 2019
@@ -182,7 +182,7 @@ Prizes:
 (5)	‘Best of the Best’ Clinical Abstracts (Top 3 Clinical Abstracts) British Cardiovascular Society Annual Conference – 2018
 
 
-Non-medical accomplishments:
+### Non-medical accomplishments:
 (1) ABRSM Grade 5 Violin
 (2) Duke of Edinburgh Gold Award - 2012
 (3) Self taught piano, bass guitar, guitar and drums
