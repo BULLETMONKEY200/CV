@@ -1,6 +1,7 @@
 # CV
 
 Teaching experience:
+
 (1) Critically appraising a paper and medical statistics
 23/10/2020
 Teaching session for medical students to become reviewers for papers submitted to the Manchester Medical Journal. Two hour long lectures on how to critically review a paper and common errors with an example paper to read afterwards then common statistics required for medical review.
@@ -60,7 +61,9 @@ Done alongside Imposter syndrome presentation. Motivated by discussion with new 
 (13) F1 teaching and presentation on Imposter syndrome
 7/7/22
 Done alongside Imposter syndrome presentation and equally motivated by presentation by Dr Jenny Gomersall.
+
 Audit and QI:
+
 (1) 	Exercise tolerance training ICE referral system QIP at East Lancashire Foundation Trust 
 Completed cycle 22/11/21
 QIP on baseline auditing inappropriate referrals for ETT and instigating an ICE referral system that filters patients with absolute contraindications. Completed jointly with an IMT colleague. 
@@ -127,6 +130,7 @@ Date: March 2022
 Aim of research: I lead the full study to assess lead and patient survival in ACHD patients
 
 Presented:
+
 1)	Moderated poster presentation at European Cardiology Society Congress Barcelona September 2022
 2)	Oral presentation at North West AFP conference at Salford Hospital June 2022
 Conclusions/Actions: Complex ACHD had worse mortality. Lead survival was worse in non-surgical and male patients. No difference between epicardial/transvenous leads and patient survival(250 patients). Currently awaiting statistics, consultant and formatting before submission. 
@@ -157,9 +161,11 @@ Conclusion: PTB-XL ECG database can be classified at a standard close to benchma
 
 
 Second author research:
+
 (1) 	Should the normal range of pulmonary vascular resistance be re-defined in patients with fontan circulation?
 Kendall, G., Schneider, H., Kirkwood, G., Mahadevan, V., Kelly, R., Patel, M., Stokes, A., Hama, B., Gill, A., Yearoo, T. and Carmichael, J.
 Heart; London Vol. 104, Iss. Suppl 6,  (Jun 2018): A4-A4. DOI:10.1136/heartjnl-2018-BCS.4.
+
 Co-author. I did data collection, aided data analysis/interpretation and review. 
 (2) 	Reliability of The Cardiac Output Measurements During Catheterization: Comparison of Various Commonly Used Formulae Calculating Assumed O2 Consumption
 Kendall, G., Kirkwood, G., Schneider, H., Mahadevan, V., Stokes, A., Karadakhy, O., Carmichael, J., Rohan, K., Nagra, R., Yearoo, T. and Patel, M. 
@@ -168,11 +174,13 @@ JACC: Cardiovascular Interventions, 11(4S), pp.S40-S41.
 Co-author. Did data collection, aided data analysis/interpretation and review.
 
 Prizes:
+
 (1)	MRes: Distinction in Final Dissertation - Regenerative effects of microRNA-520 on mouse cardiomyocytes in vitro and vivo - 2019
 (2)	MRes: Distinction in Literature Review - Hippo mediated cardiac regeneration via miR-520 – 2019
 (3)	MRes: Distinction in Research Proposal - Hippo mediated cardiac regeneration via miR-520 – 2019
 (4)	Distinction in QEPEP Clinical Audit – 2018
 (5)	‘Best of the Best’ Clinical Abstracts (Top 3 Clinical Abstracts) British Cardiovascular Society Annual Conference – 2018
+
 
 Non-medical accomplishments:
 (1) ABRSM Grade 5 Violin
