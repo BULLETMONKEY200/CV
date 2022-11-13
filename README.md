@@ -103,7 +103,7 @@ Aim & measure of the change: implementing education and EPR changes
 
 Description and importance: Following my investigations into ward round documentation issues (pace, legibility, doctors not speaking up) this group was set up involving Clinical Directors to help action the project. We decided on an education approach highlighting the legal benefit to documenting timings, indications and senior's input.
 
-First author research and presentations:
+### First author research and presentations:
 
 (1)	BCS Abstract: Long term lead survival in adult congenital heart disease (ACHD) patients: a retrospective analysis using clinical correspondence data mining.
 
